@@ -27,3 +27,7 @@ Frequency analysis is based on the fact that, in any given stretch of written la
 #Option:  1) Take replace rule  
 #2) Exit  Option>   
 #------------------------------------------------------------END----------------------------------------------------------------------------
+
+![result](https://user-images.githubusercontent.com/76902107/119702930-b05cb100-be5e-11eb-842e-97303a6b645f.PNG)
+
+
