@@ -11,7 +11,7 @@ Application should be run in command line (No GUI) and should take one arguments
 This argument should take cipher text as input.   So you should run application like that: 
 
 #java analysis cipher.txt 
-or for interpreted languages  
+#or for interpreted languages  
 #analysis cipher.txt 
 
 After application run it must analyze cipher and give statistic of chars at the same screen as  given following part:  
